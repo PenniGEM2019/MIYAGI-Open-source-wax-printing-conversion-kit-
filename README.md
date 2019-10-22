@@ -2,12 +2,12 @@
 
 ## Contents
   * [Hardware](#hardware)
-   * [3D Printed Parts](#3d-printed-parts)
-   * [Electoric Components](#electoric-components)
-   * [Assembly](#assembly)
+    * [3D Printed Parts](#3d-printed-parts)
+    * [Electoric Components](#electoric-components)
+    * [Assembly](#assembly)
   * [Software](#software)
-   * [Prusa Firmware Modification](#prusa-firmware-modification)
-   * [Munging Script](#munging-script)
+    * [Prusa Firmware Modification](#prusa-firmware-modification)
+    * [Munging Script](#munging-script)
 
 ## Hardware
 
