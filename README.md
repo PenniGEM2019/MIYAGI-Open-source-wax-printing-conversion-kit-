@@ -1,7 +1,13 @@
 # MIYAGI-Open-source-wax-printing-conversion-kit-
 
 ## Contents
-  * [Linux build](#linux)
+  * [Hardware](#hardware)
+   * [3D Printed Parts](#3d-printed-parts)
+   * [Electoric Components](#electoric-components)
+   * [Assembly](#assembly)
+  * [Software](#software)
+   * [Prusa Firmware Modification](#prusa-firmware-modification)
+   * [Munging Script](#munging-script)
 
 ## Hardware
 
