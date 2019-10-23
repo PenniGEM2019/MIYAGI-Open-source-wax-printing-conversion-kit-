@@ -9,6 +9,7 @@
   * [Software Instructions](#software-instructions)
     * [Updating Prusa Firmware](#updating-prusa-firmware)
     * [Slicing and Munging](#slicing-and-munging)
+    * [Modifying Firmware(Optional)](#modifying-firmware(optional))
   * [Demonstration](#demonstration)
     
 ## Hardware Instructions
@@ -32,7 +33,7 @@
 General description about updating Prusa firmware provided by the Prusa Research can be found [here](https://help.prusa3d.com/article/r5ByKgVm69-firmware-upgrade-and-flashing).
 
 1. Download our .hex file (prusa3d_fw_MK3S_3_7_2_Miyagi.hex) or generate your own .hex file
-    - The type of Prusa 3D printer we used was MK3S, and the firmware version was 3.7.2. In case you have a different type of printer or wish to use a later firmware version, you need to generate your own .hex file. Follow detailed instructions under [our Software directory].
+    - The type of Prusa 3D printer we used was MK3S, and the firmware version was 3.7.2. In case you have a different type of printer or wish to use a later firmware version, you need to generate your own .hex file. Follow detailed instructions under [firmawre modfication section](#modifying-firmware(optional)).
     
 2. Connect your Prusa 3D printer to your computer.
 
@@ -71,6 +72,9 @@ General description about updating Prusa firmware provided by the Prusa Research
 7. Choose your sliced .gcode file and name a new .gcode file.
 
 8. Generated .gcode file is ready to print wax. Transfer the .gcode file to the printer through SD card. 
+
+### Modifying Firmware(Optional)
+
 
 ## Demonstration
 Demonstration of drawing a device and detailed characterization of our printer are on our [iGEM wiki page](https://2019.igem.org/Team:Penn/Results).
