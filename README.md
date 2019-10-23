@@ -2,6 +2,7 @@
 
 ## Contents
   * [Hardware Instructions](#hardware-instructions)
+    * [Machined Part] (
     * [3D Printed Parts](#3d-printed-parts)
     * [Electronic Components](#electoric-components)
     * [Assembly](#assembly)
@@ -37,4 +38,25 @@ General description about updating Prusa firmware provided by the Prusa Research
 4. Flash!
 
 ### Slicing and Munging
-####
+#### What you need:
+   * PrusaSlicer
+   * Miyagi_munging_script.py
+   * python 2.7 environment
+   
+#### Steps:
+1. Create a device you are intended to print and save it as .stl file, or download our Miyagi_sample.stl file.
+2. Open PrusaSlicer and upload the .stl file.
+3. Change slicing settings as follows.
+     - Go to _Print Settings -> Layers and perimeters_ and set _Perimeters_ to 1 and _Solid layers_ to 0 for both _Top_ and _Bottom_.
+     _ Go to _Print Settings -> Infill_ and set _Fill density_ to 0%.
+     _ Go to _Print Settings -> Skirt and brim_ and set _Loops_ to 0 and _Skirt height_ to 0.
+     - Go to _Print Settings -> Support material_ and set _Raft layers_ to 0 layers.
+     - Go to _Print Settings -> Advanced_ and set all the _Extrusion width_ to 1mm.
+     - Go back to _Plater_, show the slicing window (bottom left), and make sure you have only one perimeter path.
+     - Good to save the setting as a custom preset.
+4. Click _Slice now_ and _Generate gcode_ and then save your sliced .gcode file.
+5. Download _Miyagi_munging_script.py_ from this page.
+6. Run _Miyagi_munging_script.py_
+7. Choose your sliced .gcode file and name a new .gcode file.
+8. Generated .gcode file is ready to print wax. Transfer the .gcode file to the printer through SD card. 
+     
