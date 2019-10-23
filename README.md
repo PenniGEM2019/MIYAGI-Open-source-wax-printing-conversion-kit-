@@ -6,8 +6,8 @@
     * [Electoric Components](#electoric-components)
     * [Assembly](#assembly)
   * [Software](#software)
-    * [Prusa Firmware Modification](#prusa-firmware-modification)
-    * [Munging Script](#munging-script)
+    * [Updating Prusa Firmware](#updating-prusa-firmware)
+    * [Slicing and Munging](#slicing-and-munging)
 
 ## Hardware
 
@@ -19,6 +19,6 @@
 
 ## Software
 
-### Prusa Firmware Modification
+### Updating Prusa Firmware
 
-### Munging Script
+### Slicing and Munging
