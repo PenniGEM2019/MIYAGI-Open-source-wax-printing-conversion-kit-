@@ -1,30 +1,30 @@
 # MIYAGI-Open-source-wax-printing-conversion-kit-
 
 ## Contents
-  * [Hardware](#hardware)
+  * [Hardware Instructions](#hardware-instructions)
     * [3D Printed Parts](#3d-printed-parts)
-    * [Electoric Components](#electoric-components)
+    * [Electronic Components](#electoric-components)
     * [Assembly](#assembly)
-  * [Software](#software)
+  * [Software Instructions](#software-instructions)
     * [Updating Prusa Firmware](#updating-prusa-firmware)
     * [Slicing and Munging](#slicing-and-munging)
 
-## Hardware
+## Hardware Instructions
 
 ### 3D Printed Parts
 
-### Electoric Conponents
+### Electronic Conponents
 
 ### Assembly
 
-## Software
+## Software Instructions
 
 ### Updating Prusa Firmware
-#### What you need
+#### What you need:
   * .hex file you intended to update with
   * PrusaSlicer (or Slic3r PE)
 
-#### Steps
+#### Steps:
 General description about updating Prusa firmware provided by the Prusa Research can be found [here](https://help.prusa3d.com/article/r5ByKgVm69-firmware-upgrade-and-flashing).
 
 1. Download our .hex file (prusa3d_fw_MK3S_3_7_2_Miyagi.hex) or generate your own .hex file
@@ -37,3 +37,4 @@ General description about updating Prusa firmware provided by the Prusa Research
 4. Flash!
 
 ### Slicing and Munging
+####
