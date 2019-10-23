@@ -49,6 +49,7 @@ General description about updating Prusa firmware provided by the Prusa Research
    
 #### Steps:
 1. Create a device you are intended to print and save it as .stl file, or download our Miyagi_sample.stl file.
+     - Make sure you create devices that can be drawn with one stroke of line.
 
 2. Open PrusaSlicer and upload the .stl file.
 
@@ -72,4 +73,4 @@ General description about updating Prusa firmware provided by the Prusa Research
 8. Generated .gcode file is ready to print wax. Transfer the .gcode file to the printer through SD card. 
 
 ## Demonstration
-     
+Demonstration of drawing a device in Miyagi_sample file and characterization of our printer can be found [here]{https://2019.igem.org/Team:Penn/Results}.
