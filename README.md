@@ -73,8 +73,7 @@ General description about updating Prusa firmware provided by the Prusa Research
 
 8. Generated .gcode file is ready to print wax. Transfer the .gcode file to the printer through SD card. 
 
-### Modifying Firmware(Optional)
-
+### Modifying Firmware
 
 ## Demonstration
 Demonstration of drawing a device and detailed characterization of our printer are on our [iGEM wiki page](https://2019.igem.org/Team:Penn/Results).
