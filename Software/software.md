@@ -2,14 +2,16 @@
 
 ## Contents
    * [Firmware Modification](#firmware-modification)
-      * [Get to Start](#get-to-start)
+      * [Get Started](#get-started)
    * [Munging Script](#modifying-munging-script)
       * [General Settings](#general-settings)
 
 ## Firmware Modification
 
-### Get to Start
-
+### Get Started
+  1. 
+  2.
+  
 ## Munging Script
 
 ### General Settings
