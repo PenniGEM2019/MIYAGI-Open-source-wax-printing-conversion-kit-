@@ -9,7 +9,7 @@
   * [Software Instructions](#software-instructions)
     * [Updating Prusa Firmware](#updating-prusa-firmware)
     * [Slicing and Munging](#slicing-and-munging)
-    * [Modifying Firmware(Optional)](#modifying-firmware(optional))
+    * [Modifying Firmware](#modifying-firmware)
   * [Demonstration](#demonstration)
     
 ## Hardware Instructions
@@ -33,7 +33,7 @@
 General description about updating Prusa firmware provided by the Prusa Research can be found [here](https://help.prusa3d.com/article/r5ByKgVm69-firmware-upgrade-and-flashing).
 
 1. Download our .hex file (prusa3d_fw_MK3S_3_7_2_Miyagi.hex) or generate your own .hex file
-    - The type of Prusa 3D printer we used was MK3S, and the firmware version was 3.7.2. In case you have a different type of printer or wish to use a later firmware version, you need to generate your own .hex file. Follow detailed instructions under [firmawre modfication section](#modifying-firmware(optional)).
+    - The type of Prusa 3D printer we used was MK3S, and the firmware version was 3.7.2. In case you have a different type of printer or wish to use a later firmware version, you need to generate your own .hex file. Follow detailed instructions under [firmawre modfication section](#modifying-firmware).
     
 2. Connect your Prusa 3D printer to your computer.
 
