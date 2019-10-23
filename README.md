@@ -52,8 +52,8 @@ General description about updating Prusa firmware provided by the Prusa Research
 3. Change slicing settings as follows.
      - Go to _Print Settings -> Layers and perimeters_ and set _Perimeters_ to 1 and _Solid layers_ to 0 for both _Top_ and _Bottom_.
      
-     _ Go to _Print Settings -> Infill_ and set _Fill density_ to 0%.
-     _ Go to _Print Settings -> Skirt and brim_ and set _Loops_ to 0 and _Skirt height_ to 0.
+     - Go to _Print Settings -> Infill_ and set _Fill density_ to 0%.
+     - Go to _Print Settings -> Skirt and brim_ and set _Loops_ to 0 and _Skirt height_ to 0.
      - Go to _Print Settings -> Support material_ and set _Raft layers_ to 0 layers.
      - Go to _Print Settings -> Advanced_ and set all the _Extrusion width_ to 1mm.
      - Go back to _Plater_, show the slicing window (bottom left), and make sure you have only one perimeter path.
