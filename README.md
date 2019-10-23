@@ -25,7 +25,7 @@
 
 ### Updating Prusa Firmware
 #### What you need:
-  * .hex file you intended to update with
+  * .hex file for update
   * PrusaSlicer 2.0.0 (or Slic3r PE)
 
 #### Steps:
