@@ -2,7 +2,7 @@
 
 ## Contents
   * [Hardware Instructions](#hardware-instructions)
-    * [Machined Part] (
+    * [Machined Part] (#machined-part)
     * [3D Printed Parts](#3d-printed-parts)
     * [Electronic Components](#electoric-components)
     * [Assembly](#assembly)
@@ -11,6 +11,8 @@
     * [Slicing and Munging](#slicing-and-munging)
 
 ## Hardware Instructions
+
+### Machined Part
 
 ### 3D Printed Parts
 
