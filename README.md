@@ -9,7 +9,8 @@
   * [Software Instructions](#software-instructions)
     * [Updating Prusa Firmware](#updating-prusa-firmware)
     * [Slicing and Munging](#slicing-and-munging)
-
+  * [Demonstration](#demonstration)
+    
 ## Hardware Instructions
 
 ### Machined Part
@@ -70,4 +71,5 @@ General description about updating Prusa firmware provided by the Prusa Research
 
 8. Generated .gcode file is ready to print wax. Transfer the .gcode file to the printer through SD card. 
 
+## Demonstration
      
