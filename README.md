@@ -87,7 +87,7 @@ This instruction is made for Linux OS, Prusa 3D printer MK3S. If you were using 
      
 4. Output .hex file is at "PrusaFirmware/lang/firmware.hex" . In the same folder you can find hex files for other languages as well.
 
-5. Using the .hex file, update printer firmware. Follow [the instruction](updating-prusa-firmware) as you need.
+5. Using the .hex file, update printer firmware. Follow [the instruction](#updating-prusa-firmware) as you need.
 
 ## Demonstration
 Demonstration of drawing a device and detailed characterization of our printer are on our [iGEM wiki page](https://2019.igem.org/Team:Penn/Results).
