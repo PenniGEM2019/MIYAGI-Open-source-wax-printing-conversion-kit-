@@ -42,6 +42,7 @@ General description about updating Prusa firmware provided by the Prusa Research
    * PrusaSlicer
    * Miyagi_munging_script.py
    * python 2.7 environment
+   * .stl file to print
    
 #### Steps:
 1. Create a device you are intended to print and save it as .stl file, or download our Miyagi_sample.stl file.
