@@ -74,6 +74,19 @@ General description about updating Prusa firmware provided by the Prusa Research
 8. Generated .gcode file is ready to print wax. Transfer the .gcode file to the printer through SD card. 
 
 ### Modifying Firmware
+#### What you need:
+   * Linux OS
+   * 
+
+_Note:_
+This instruction is made for Linux OS, Prusa 3D printer MK3S. If you were using different printer model, different version of firmware, or different OS, this instruction may not be optimized. Original instruction provided by the Prusa Research can be found [here](https://github.com/prusa3d/Prusa-Firmware). 
+
+1. Clone repository of the original firmware ([forked page](https://github.com/PenniGEM2019/Prusa-Firmware#2b)).
+     - Make sure to clone a correct version of firmware.
+     
+2. In your local computer, under "Firmware/variants/" directory, select the configuration file .h corresponding to your printer model, make a copy of this file and rename it as "Configuration_prusa.h". Move this renamed file into "Firmware/" directory.
+
+3. In the terminal window, go to the directory you cloned the repository. Run Run sudo './build.sh`.
 
 ## Demonstration
 Demonstration of drawing a device and detailed characterization of our printer are on our [iGEM wiki page](https://2019.igem.org/Team:Penn/Results).
