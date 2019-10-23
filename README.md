@@ -2,7 +2,7 @@
 
 ## Contents
   * [Hardware Instructions](#hardware-instructions)
-    * [Machined Part] (#machined-part)
+    * [Machined Part](#machined-part)
     * [3D Printed Parts](#3d-printed-parts)
     * [Electronic Components](#electoric-components)
     * [Assembly](#assembly)
