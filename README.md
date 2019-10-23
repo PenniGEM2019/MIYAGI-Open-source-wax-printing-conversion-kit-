@@ -26,7 +26,7 @@
 ### Updating Prusa Firmware
 #### What you need:
   * .hex file you intended to update with
-  * PrusaSlicer (or Slic3r PE)
+  * PrusaSlicer 2.0.0 (or Slic3r PE)
 
 #### Steps:
 General description about updating Prusa firmware provided by the Prusa Research can be found [here](https://help.prusa3d.com/article/r5ByKgVm69-firmware-upgrade-and-flashing).
@@ -42,14 +42,14 @@ General description about updating Prusa firmware provided by the Prusa Research
 
 ### Slicing and Munging
 #### What you need:
-   * PrusaSlicer
+   * PrusaSlicer 2.0.0
    * Miyagi_munging_script.py
    * python 2.7 environment
    * .stl file to print
    
 #### Steps:
 1. Create a device you are intended to print and save it as .stl file, or download our Miyagi_sample.stl file.
-     - Make sure you create devices that can be drawn with one stroke of line.
+     - Make sure a device you create can be drawn with only one stroke of line.
 
 2. Open PrusaSlicer and upload the .stl file.
 
